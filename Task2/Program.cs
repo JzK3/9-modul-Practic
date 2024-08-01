@@ -16,6 +16,7 @@ namespace Task2
                 }
                 catch (Exception)
                 { Console.WriteLine("Вы ввели неверное значение, пожалуйста, введите 1 или 2"); }
+                //123
             }
         }
 
